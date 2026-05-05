@@ -1,0 +1,12 @@
+{
+  "name": "LifeTrust Planning",
+  "version": "0.5.0",
+  "download_url": "https://raw.githubusercontent.com/DarrylErentzen/plugin_releases/main/ltu/lifetrust-planning-plugin-v0.5.0.zip",
+  "requires": "5.9",
+  "tested": "6.5",
+  "requires_php": "8.1",
+  "sections": {
+    "description": "WordPress plugin for LifeTrust Planning.",
+    "changelog": "<h4>0.5.0</h4><ul><li>MemberPress Growth integration with configurable tier mapping and migration tooling.</li><li>CDA curriculum schema, student portal, graduate registry, and sandbox scenario foundations.</li><li>Fixed updater configuration to use a publicly hosted metadata endpoint.</li></ul>"
+  }
+}
