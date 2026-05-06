@@ -1,12 +1,12 @@
 {
   "name": "LifeTrust Planning",
-  "version": "0.5.1",
-  "download_url": "https://raw.githubusercontent.com/DarrylErentzen/plugin_releases/main/ltu/lifetrust-planning-plugin-v0.5.1.zip",
+  "version": "0.5.2",
+  "download_url": "https://raw.githubusercontent.com/DarrylErentzen/plugin_releases/main/ltu/lifetrust-planning-plugin-v0.5.2.zip",
   "requires": "5.9",
   "tested": "6.5",
   "requires_php": "8.1",
   "sections": {
     "description": "WordPress plugin for LifeTrust Planning.",
-    "changelog": "<h4>0.5.1</h4><ul><li>Fixed: Auto-update system now fully automated via GitHub</li><li>Fixed: Self-contained plugin with all dependencies</li><li>Improved: Intelligent version management</li></ul><h4>0.5.0</h4><ul><li>MemberPress Growth integration with configurable tier mapping and migration tooling.</li><li>CDA curriculum schema, student portal, graduate registry, and sandbox scenario foundations.</li><li>Fixed updater configuration to use a publicly hosted metadata endpoint.</li></ul>"
+    "changelog": "<h4>0.5.2</h4><ul><li>Fixed: Reduced plugin size from 90MB to &lt;5MB</li><li>Fixed: Removed non-runtime dependency files (tests/docs/examples/CI configs)</li><li>Improved: Production build now enforces strict runtime-only packaging</li></ul><h4>0.5.1</h4><ul><li>Fixed: Auto-update system now fully automated via GitHub</li><li>Fixed: Self-contained plugin with all dependencies</li><li>Improved: Intelligent version management</li></ul><h4>0.5.0</h4><ul><li>MemberPress Growth integration with configurable tier mapping and migration tooling.</li><li>CDA curriculum schema, student portal, graduate registry, and sandbox scenario foundations.</li><li>Fixed updater configuration to use a publicly hosted metadata endpoint.</li></ul>"
   }
 }
